@@ -59,7 +59,7 @@ public class login {
 		frame.getContentPane().setLayout(null);
 		
 		
-		rememberCredentials = new JCheckBox("Remember Credential");
+		rememberCredentials = new JCheckBox("Remember Credentials");
 		rememberCredentials.setBounds(63, 231, 140, 23);
 		frame.getContentPane().add(rememberCredentials);
 		
